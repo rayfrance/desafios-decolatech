@@ -21,10 +21,12 @@ pegar 5 esferas para invocar Xenlongão.
 procurar.
 
 **Entrada**
+
 A primeira linha consiste de um inteiro C que representa a quantidade de casos de teste. As linhas subsequentes contém um inteiro N (2 ≤ N ≤ 109) que representa a quantidade
 de esferas necessárias para invocar Xenlongão.
 
 **Saída**
+
 Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procurar.
 
 ## Desafio 2 - Quadrado de pares
@@ -32,9 +34,11 @@ Seu programa deve exibir a quantidade mínima de esferas que Kogu tem que procur
 Leia um valor inteiro N. Apresente o quadrado de cada um dos valores pares, de 1 até N, inclusive N, se for o caso.
 
 **Entrada**
+
 A entrada contém um valor inteiro N (5 < N < 2000).
 
-##Saída
+**Saída**
+
 Imprima o quadrado de cada um dos valores pares, de 1 até N, conforme o exemplo abaixo.
 
 Tome cuidado! Algumas linguagens tem por padrão apresentarem como saída 1e+006 ao invés de 1000000 o que ocasionará resposta errada.
@@ -46,9 +50,11 @@ Escreva um algoritmo para calcular e escrever o valor de S, sendo S dado pela f�
 S = 1 + 1/2 + 1/3 + … + 1/100
 
 **Entrada**
+
 Não há nenhuma entrada neste problema.
 
 **Saída**
+
 A saída contém um valor correspondente ao valor de S.
 O valor deve ser impresso com dois dígitos após o ponto decimal.
 
@@ -57,9 +63,11 @@ O valor deve ser impresso com dois dígitos após o ponto decimal.
 Você deve fazer um programa que apresente a sequencia conforme o exemplo abaixo.
 
 **Entrada**
+
 Não há nenhuma entrada neste problema.
 
 **Saída**
+
 Imprima a sequencia conforme exemplo abaixo
 
 **Exemplo de Saída**
@@ -83,9 +91,11 @@ que não vai ter copa devido aos protestos e insatisfação política
 Mas esses rumores de que não haverá copa são totalmente falsos, e o governo já avisou: vai ter copa sim! 
 
 **Entrada**
+
 A entrada contém vários casos de teste. Cada caso de teste consiste de uma linha contendo o número N de reclamações sobre a copa encaminhadas 
 para o governo (0 ≤ N ≤ 100).
 
 **Saída**
+
 Para cada teste, a saída consiste de uma linha dizendo "vai ter copa!" caso não haja reclamações para o governo. Caso haja reclamações, a saída
 deverá dizer "vai ter duas!".
